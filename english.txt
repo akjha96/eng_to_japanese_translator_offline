@@ -6,3 +6,5 @@ English: I want food
 Japanese: 食べ物が欲しい
 English: Hello
 Japanese: へのメッセージ
+English: I am new  here!
+Japanese: 私はここでは新人です
