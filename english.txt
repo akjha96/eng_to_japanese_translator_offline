@@ -1,0 +1,8 @@
+English: Hello there! I am Anand 
+Japanese: こんにちは！私はアナンド
+English: n
+Japanese: n
+English: I want food
+Japanese: 食べ物が欲しい
+English: Hello
+Japanese: へのメッセージ
